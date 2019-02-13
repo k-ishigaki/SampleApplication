@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleApplication</string>
+    <string name="main_actiivty_name">Main Actiivty</string>
+    <string name="start_subactivity_button_name">SubActivityを起動</string>
+</resources>
